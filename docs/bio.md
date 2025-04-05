@@ -12,6 +12,8 @@ Would you like to talk something over? Discuss projects?
 
 Let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/carlos-fc/)
+
+[LinkedIn](https://www.linkedin.com/in/carlos-fc/).
+
 
 E-mail: carlosfc(at)umich(dot)edu
