@@ -1,4 +1,6 @@
-# Title 1
+[Home](index.md) | [Bio](bio.md) 
+
+# Home
 
 lorem ipsum
 
