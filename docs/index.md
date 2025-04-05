@@ -1,4 +1,4 @@
-[Home](index.md) | [Bio](bio.md) 
+[Home](index.md) | [Bio](bio.md) | [Projects](projects.md)
 
 # Interested in Finance, Statistics and/or Machine Learning?
 
