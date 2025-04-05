@@ -11,5 +11,7 @@ I obtained my Master's degree in Data Science from the University of Michigan in
 Would you like to talk something over? Discuss projects?
 
 Let's connect!
+
 [LinkedIn](https://www.linkedin.com/in/carlos-fc/)
+
 E-mail: carlosfc(at)umich(dot)edu
