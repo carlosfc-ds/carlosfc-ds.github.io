@@ -8,7 +8,7 @@ This page showcases my projects organized by category.
 
 ## Data Analysis and BI
 
-- **[Project 1: PCR Analysis](pcr.html)**
+- **[Project 1: PCR Analysis](data_analysis/pcr.html)**
 - **Project 2:** Built interactive dashboards for business performance metrics
 - **Project 3:** Automated monthly reporting with Python and Power BI
 
