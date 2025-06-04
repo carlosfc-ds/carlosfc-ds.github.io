@@ -16,9 +16,11 @@ This page showcases my projects organized by category.
 
 ## Data Science and ML
 
-- **Project 1:** Developed a customer churn prediction model using scikit-learn
+- **Project 1:** Developed a customer churn prediction model using scikit-learn  
+  [View on GitHub](https://github.com/carlosfc-ds/project-si618)
 - **Project 2:** Trained a neural network for image classification
 - **Project 3:** Implemented a recommendation system based on user behavior
+
 
 ---
 
