@@ -6,3 +6,11 @@ Welcome to my personal portfolio website repository! This webpage is designed to
 
 You can view the live website here:  
 [Live Demo](https://carlosfc-ds.github.io/)
+
+## 📞 Contact
+
+Feel free to reach out via email at carlosfc@umich.edi or connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-fc/).
+
+---
+
+Thank you for visiting my portfolio repository!
