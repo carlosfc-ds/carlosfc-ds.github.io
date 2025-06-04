@@ -1,3 +1,31 @@
-[Home](index.md) | [Bio](bio.md) | [Projects](projects.md)
+[Home](index.md)| [Projects](projects.md) | [Bio](bio.md)
 
-{% include pcr.html %}
+# Projects
+
+This page showcases my projects organized by category.
+
+---
+
+## Data Analysis and BI
+
+- **Project 1:** <iframe src="pcr.html" frameborder="0" width="100%" height="500"></iframe>
+- **Project 2:** Built interactive dashboards for business performance metrics
+- **Project 3:** Automated monthly reporting with Python and Power BI
+
+---
+
+## Data Science and ML
+
+- **Project 1:** Developed a customer churn prediction model using scikit-learn
+- **Project 2:** Trained a neural network for image classification
+- **Project 3:** Implemented a recommendation system based on user behavior
+
+---
+
+## Quantitative Finance
+
+- **Project 1:** Backtested trading strategies using historical market data
+- **Project 2:** Built a portfolio optimization tool with Python
+- **Project 3:** Developed risk analysis models for asset allocation
+
+---

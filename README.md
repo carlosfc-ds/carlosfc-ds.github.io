@@ -9,7 +9,7 @@ You can view the live website here:
 
 ## 📞 Contact
 
-Feel free to reach out via email at carlosfc@umich.edi or connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-fc/).
+Feel free to reach out via email at carlosfc@umich.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-fc/).
 
 ---
 
