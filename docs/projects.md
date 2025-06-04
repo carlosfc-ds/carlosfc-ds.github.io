@@ -8,7 +8,7 @@ This page showcases my projects organized by category.
 
 ## Data Analysis and BI
 
-- **[Project 1: PCR Analysis](data_analysis/pcr.html)**
+- **[Google Fiber Case Study:](https://github.com/carlosfc-ds/GoogleFiberCaseStudy)** Developed and documented a comprehensive business intelligence case study focused on analyzing and optimizing Google Fiber's customer service operations.
 - **Project 2:** Built interactive dashboards for business performance metrics
 - **Project 3:** Automated monthly reporting with Python and Power BI
 
@@ -26,7 +26,7 @@ This page showcases my projects organized by category.
 
 ## Quantitative Finance
 
-- **Project 1:** Backtested trading strategies using historical market data
+- **[Project 1: PCR Analysis](data_analysis/pcr.html)**
 - **Project 2:** Built a portfolio optimization tool with Python
 - **Project 3:** Developed risk analysis models for asset allocation
 
