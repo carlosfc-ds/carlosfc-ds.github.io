@@ -11,24 +11,24 @@ This page showcases my projects organized by category.
 - **[Google Fiber Case Study](https://github.com/carlosfc-ds/GoogleFiberCaseStudy)** ![Static Badge](https://img.shields.io/badge/Tableau-lightseagreen?logo=salesforce&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Dataflow-lightseagreen?logo=googledataflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20BigQuery-lightseagreen?logo=googlebigquery&logoColor=white)   
 Developed and documented a comprehensive business intelligence case study focused on analyzing and optimizing Google Fiber's customer service operations.
 
-- **Fakebook Database** ![Static Badge](https://img.shields.io/badge/SQL-yellow)
+- **[Fakebook Oracle Database](index.md)** ![Static Badge](https://img.shields.io/badge/SQL-lightseagreen) ![Static Badge](https://img.shields.io/badge/Oracle%20SQL*Plus-lightseagreen) ![Static Badge](https://img.shields.io/badge/Java-lightseagreen)   
+Refactored a legacy database by scripting in SQL the creation and population of 10+ tables, resulting in improved normalization and reduced data redundancy.
 
 ---
 
 ## Data Science and ML
 
-- **Project 1:** Developed a customer churn prediction model using scikit-learn  
-  [View on GitHub](https://github.com/carlosfc-ds/project-si618)
-- **Project 2:** Trained a neural network for image classification
-- **Project 3:** Implemented a recommendation system based on user behavior
+- **Project 1:** Coming Soon
+<!-- - **[Project 1: PCR Analysis](data_analysis/pcr.html)** -->
+
 
 
 ---
 
 ## Quantitative Finance
 
-- **[Project 1: PCR Analysis](data_analysis/pcr.html)**
-- **Project 2:** Built a portfolio optimization tool with Python
-- **Project 3:** Developed risk analysis models for asset allocation
+- **Project 1:** Coming Soon
+
+
 
 ---
