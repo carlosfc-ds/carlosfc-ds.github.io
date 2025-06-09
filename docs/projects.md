@@ -9,7 +9,7 @@ This page showcases my projects organized by category.
 ## Data Analysis and BI
 
 - **[Google Fiber Case Study:](https://github.com/carlosfc-ds/GoogleFiberCaseStudy)** Developed and documented a comprehensive business intelligence case study focused on analyzing and optimizing Google Fiber's customer service operations.
-- **[Fakebook Database:](sql.md)**
+- **Fakebook Database:** ![Static Badge](https://img.shields.io/badge/SQL-yellow)
 
 ---
 
