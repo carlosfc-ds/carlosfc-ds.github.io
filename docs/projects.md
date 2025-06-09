@@ -8,7 +8,8 @@ This page showcases my projects organized by category.
 
 ## Data Analysis and BI
 
-- **[Google Fiber Case Study](https://github.com/carlosfc-ds/GoogleFiberCaseStudy)** ![Static Badge](https://img.shields.io/badge/Tableau-brightgreen) ![Static Badge](https://img.shields.io/badge/Google%20BigQuery-brightgreen) ![Static Badge](https://img.shields.io/badge/Google%20Dataflow-brightgreen)
+- **[Google Fiber Case Study](https://github.com/carlosfc-ds/GoogleFiberCaseStudy)** ![Static Badge](https://img.shields.io/badge/Tableau-brightgreen) ![Static Badge](https://img.shields.io/badge/Google%20BigQuery-brightgreen) ![Static Badge](https://img.shields.io/badge/Google%20BigQuery-brightgreen?logo=googlebigquery&logoColor=white)
+
 
 Developed and documented a comprehensive business intelligence case study focused on analyzing and optimizing Google Fiber's customer service operations.
 - **Fakebook Database** ![Static Badge](https://img.shields.io/badge/SQL-yellow)
