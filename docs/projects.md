@@ -24,11 +24,3 @@ Refactored a legacy database by scripting in SQL the creation and population of 
 
 
 ---
-
-## Quantitative Finance
-
-- **Project 1:** Coming Soon
-
-
-
----
